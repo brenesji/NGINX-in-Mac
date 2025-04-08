@@ -4,8 +4,10 @@ NGINX Installation on Mac
 
 
 
+Hombrew Installation (Optional)
 
- NGNIX Installation trough hombrew (Optional)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 1. Open Terminal
 2. Install NGNIX
 
